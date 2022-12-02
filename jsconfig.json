@@ -1,0 +1,14 @@
+/*
+ * @Title: This is a  file for ……
+ * @Author: JackieZheng
+ * @Date: 2022-11-22 08:15:28
+ * @LastEditTime: 2022-12-01 17:09:34
+ * @LastEditors: renjintao jintao2001@126.com
+ * @Description:
+ * @FilePath: \\VirtualClass\\tsconfig.json
+ */
+ {
+    "compilerOptions": {
+      "allowJs": false,
+    }
+  }
